@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use engstoch in your work, please cite it as below."
+title: "engstoch: stochastic processes and simulation from scratch, in Python"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Yanwei
+    email: wangyanwei@gmail.com
+    orcid: "https://orcid.org/0000-0002-8488-9833"
+    website: "https://github.com/ktwyw"
+version: 0.1.0
+date-released: "2026-10-02"
+license: MIT
+repository-code: "https://github.com/ktwyw/engstoch"
+keywords:
+  - stochastic processes
+  - simulation
+  - Monte Carlo
+  - quasi-Monte Carlo
+  - Markov chains
+  - queueing theory
+  - discrete-event simulation
+  - stochastic differential equations
+  - Markov chain Monte Carlo
+  - engineering education
+abstract: >-
+  A from-scratch, validated NumPy implementation of stochastic processes and simulation: pseudo-random
+  generators and their tests, random variate generation, Monte Carlo with variance reduction and quasi-Monte
+  Carlo, discrete- and continuous-time Markov chains, random walks and branching processes, Poisson and renewal
+  processes, queueing theory and discrete-event simulation, output analysis, Brownian motion and stochastic
+  differential equations with multilevel Monte Carlo, Gaussian processes and time series, and Markov chain Monte
+  Carlo, with course data and a 20-notebook course with worked solutions.
